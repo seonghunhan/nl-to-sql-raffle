@@ -25,7 +25,7 @@
 
 ### 1. 저장소 클론
 ```bash
-git clone <repository-url>
+git clone https://github.com/seonghunhan/nl-to-sql-raffle.git
 cd w6
 ```
 
